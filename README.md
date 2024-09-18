@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GABRIEL1-ANGEL
 - 👀 I’m interested in coding (obviously)
 
--Check out my prtfolio https://gabriel1-angel.github.io/OnwukaGabriel.github.io/
+-Check out my portfolio https://gabriel1-angel.github.io/OnwukaGabriel.github.io/
 
 
 <!---
