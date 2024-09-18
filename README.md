@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @GABRIEL1-ANGEL
 - 👀 I’m interested in coding (obviously)
 
--Check out more https://onwukagabriel.my.canva.site/
+-Check out my prtfolio https://gabriel1-angel.github.io/OnwukaGabriel.github.io/
+
 
 <!---
 GABRIEL1-ANGEL/GABRIEL1-ANGEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
