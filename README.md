@@ -1,5 +1,7 @@
  👋 Hi, I’m GABRIEL1-ANGEL
  
+ But you can call me Gabriel😁
+ 
  👀 I’m interested in coding (obviously)    
 
  👨‍💻 Check out my portfolio 👉 https://gabriel1-angel.github.io/OnwukaGabriel.github.io/
